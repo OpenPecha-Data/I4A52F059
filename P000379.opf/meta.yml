@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG23599
   title: བཀའ་བློན་རྟོགས་བརྗོད།
-  volume: ''
+  volume:
+    dda22eb70a6b43818478e07f0ebf4779:
+      image_group_id: I1KG23677
+      title: Volume 1 of bka' blon rtogs brjod/
+      volume_number: 1
+      total_pages: 218
   author: ''
+ebook_metadata:
+  title: བཀའ་བློན་རྟོགས་བརྗོད།
+  author: ''
+  sku: P000379
+  cover: cover.jpg
+  layers:
+  - pagination
