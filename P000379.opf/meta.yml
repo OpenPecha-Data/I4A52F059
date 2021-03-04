@@ -1,15 +1,16 @@
-id: opecha:P000379
+id: P000379
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG23599
   title: བཀའ་བློན་རྟོགས་བརྗོད།
-  volume:
+  author: ''
+  volumes:
     dda22eb70a6b43818478e07f0ebf4779:
       image_group_id: I1KG23677
       title: Volume 1 of bka' blon rtogs brjod/
       volume_number: 1
       total_pages: 218
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: བཀའ་བློན་རྟོགས་བརྗོད།
   author: ''
